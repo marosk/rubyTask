@@ -1,4 +1,4 @@
 class Test
   
-  puts "test"
+  puts "tests"
 end
